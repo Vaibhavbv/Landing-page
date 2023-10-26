@@ -1,3 +1,7 @@
+@font-face {
+    font-family: kajiro;
+    src: url(./Kajiro\ Bold.woff2);
+}
 *{
     margin : 0;
     padding: 0;
